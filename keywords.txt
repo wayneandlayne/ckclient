@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map For CKClient
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Client	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+status	KEYWORD2
+connect	KEYWORD2
+write	KEYWORD2
+available	KEYWORD2
+read	KEYWORD2
+flush	KEYWORD2
+stop	KEYWORD2
+connected	KEYWORD2
+begin	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
